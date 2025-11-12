@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Exported model weights
+exports/
+!exports/.gitkeep  # 폴더만 유지하려면 (선택)
+
+# Build artifacts
+build/
+*.o
+*.so
+*.a
+*.out
+*.exe
+
+# CUDA / CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+
+imagenet_val/
+
+out/
+tmp_e2e/
+tmp_gaps/
