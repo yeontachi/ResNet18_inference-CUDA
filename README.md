@@ -266,24 +266,10 @@ bash scripts/run_step9_e2e.sh
 
 ---
 
-## Citation
-
-```
-@software{resnet18_cuda_fp32_2025,
-  title  = {ResNet18 CUDA (FP32) — from-scratch inference pipeline},
-  author = {Your Name},
-  year   = {2025},
-  url    = {https://github.com/<yourname>/ResNet18_CUDA_FP32}
-}
-```
-
----
-
 ## Acknowledgements
 
 * PyTorch / Torchvision teams
 * NVIDIA CUDA documentation and samples
 
----
 
 If you want, I can also generate a short **README_kr.md**, add badges, and include screenshots or profiler tables.
